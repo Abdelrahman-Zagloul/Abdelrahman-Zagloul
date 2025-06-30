@@ -31,7 +31,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=csharp,dotnet,sqlserver,redis,postman,docker,html,css,js,cpp"/>
+  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=csharp,dotnet,sqlserver,postman,html,css,js,cpp"/>
 </p>
 
 ---
