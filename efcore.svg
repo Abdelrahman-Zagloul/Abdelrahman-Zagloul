@@ -1,0 +1,5 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="40" fill="#512BD4"></rect>
+  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="110" font-weight="bold" fill="white">EF</text>
+  <text x="50%" y="78%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="38" fill="white">Core</text>
+</svg>
