@@ -28,18 +28,53 @@
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=csharp,dotnet,sqlserver,postman,html,css,js,cpp"/>
-</p>
-
----
-
-### 📌 Most Used & Favorite Languages
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Connect with Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,js,html,cpp" height="50" />
+  <a href="mailto:abdelrahman.zagloul.dev@gmail.com">
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Abdelrahman-Zagloul">
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/0201285168885">
+  <a href="https://www.linkedin.com/in/abdelrahman-zagloul/">
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <img height="53" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/bdalrhmnzghlwl.291648">
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=facebook" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/abdelrahman_zaglol/">
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="Instagram"/>
+  </a>
+</p>
+
+
+### 💻 Tech Stack
+
+**Backend & Database**  
+<p align="left">
+  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,dapper" />
+  <img height="50" src="./efcore.svg" />
+  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=redis" />
+</p>
+
+
+**Frontend**  
+<p align="left">
+  <img height="75" src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+</p>
+
+**Tools & DevOps**  
+<p align="left">
+  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=git,github,visualstudio,swagger,postman,apidog" />
 </p>
 
 ---
