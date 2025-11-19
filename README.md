@@ -56,12 +56,13 @@
   </a>
 </p>
 
+---
 
 ### 💻 Tech Stack
 
 **Backend & Database**  
 <p align="left">
-  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,dapper" />
+  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,sqlserver,dapper" />
   <img height="50" src="./efcore.svg" />
   <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=redis" />
 </p>
@@ -77,15 +78,23 @@
   <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=git,github,visualstudio,swagger,postman,apidog" />
 </p>
 
----
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman-Zagloul&layout=compact&langs_count=6&theme=codeSTACKr"/>
-</p>
-
----
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img width="390" src="https://streak-stats.vercel.app/?user=Abdelrahman-Zagloul&theme=onedark&hide_border=true&border_radius=10&mode=weekly" alt="Streak Stats"/>
+      </td>
+   <td>
+        <img width="390" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Zagloul&show_icons=true&theme=onedark&bg_color=021526&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+      </td>
+    </tr>
+  </table>
+  <br/><br/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Zagloul&layout=compact&langs_count=8&theme=onedark&bg_color=021526&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages" />
+</div>
 
 ### 🐍 Contribution Snake
 
