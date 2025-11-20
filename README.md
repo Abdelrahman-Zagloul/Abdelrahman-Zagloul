@@ -39,11 +39,11 @@
     <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/0201285168885">
   <a href="https://www.linkedin.com/in/abdelrahman-zagloul/">
     <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://wa.me/0201285168885">
   <img height="53" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp"/>
   </a>
   &nbsp;&nbsp;
