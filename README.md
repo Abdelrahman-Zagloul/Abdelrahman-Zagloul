@@ -100,8 +100,8 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Zagloul&layout=compact&langs_count=8&theme=onedark&bg_color=021526&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
-  <br/><br/>
-  
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
