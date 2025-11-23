@@ -39,10 +39,6 @@
   <a href="https://www.facebook.com/bdalrhmnzghlwl.291648">
     <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=facebook" alt="Facebook"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/abdelrahman_zaglol/">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="Instagram"/>
-  </a>
 </p>
 
 ---
