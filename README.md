@@ -74,7 +74,7 @@
 
 **Tools & DevOps**  
 <p align="left">
-  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=git,github,visualstudio,swagger,postman,apidog" />
+  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,visualstudio,swagger,postman,apidog" />
 </p>
 
 ---
