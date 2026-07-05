@@ -1,20 +1,21 @@
 <h1 align="center">Hello! I'm Abdelrahman Zagloul 👋</h1>
-<h2 align="center">Software Engineer | Backend .NET Developer</h2>
+<h2 align="center">Software Engineer | Backend .NET Developer | Open to Work</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Zagloul&style=plastic&color=4010B0" height="30" />
 </p>
 
 	
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
 
-- 🎓 I'm a Computer Science student at the Faculty of Computers & AI, Sadat University  
-- 💼 I specialize in building clean, scalable backend solutions using **C#, .NET, Entity Framework, and SQL Server**  
-- 🧠 Passionate about **OOP**, **SOLID Principles**, and clean architecture  
-- 📚 I continuously improve by solving problems on platforms like **LeetCode** and **Codeforces**
-- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1llBeOaQKCLYT-KuuDsRnRXn3B-bILEjc/view?usp=drive_link).
-- :boom: You can visit [MY WEBSITE](https://abdelrahman-zagloul.github.io/Portfolio/).
-
+- 🎓 Computer Science graduate from the Faculty of Computers & AI, Sadat University
+- 💼 Backend .NET Developer focused on building clean, scalable, and maintainable applications
+- 🧠 Passionate about **C#, ASP.NET Core, Entity Framework Core, SQL Server, OOP, SOLID,** and **Clean Architecture**
+- 📚 I enjoy solving problems on **LeetCode** and **Codeforces** to strengthen my problem-solving skills
+- 🚀 Open to **Junior .NET Backend Developer** opportunities
+- 📄 [Resume](https://drive.google.com/file/d/1llBeOaQKCLYT-KuuDsRnRXn3B-bILEjc/view?usp=drive_link)
+- 🌐 [Portfolio](https://abdelrahman-zagloul.github.io/Portfolio/)
+  
 ---
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Connect with Me
